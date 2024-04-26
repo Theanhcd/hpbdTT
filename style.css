@@ -23,8 +23,8 @@ body{
     align-items: center;
 }
 .container .boxcontainer{
-    width: 700px;
-    height: 450px;
+       max-width: 1080px;
+    max-height: 881px;
     position: relative;
     display: flex;
     flex-direction: column;
